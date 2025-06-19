@@ -9,7 +9,7 @@ Bu C programı, kullanıcıdan alınan sayılarla çeşitli matematiksel işleml
 - Faktöriyel  
 - Basamak toplamı
 
-## 🇬🇧 Project Description
+## EN Project Description
 
 This C program performs various mathematical operations recursively based on user input:  
 - Fibonacci sequence  
